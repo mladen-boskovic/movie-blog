@@ -1,0 +1,431 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>API</name>
+    </assembly>
+    <members>
+        <member name="M:API.Controllers.AuthController.Post(Application.Auth.UsersCredentials)">
+             <summary>
+             Generates key for user who tries to log in if user exists.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 POST
+                 {
+                    "Username": "pera",
+                    "Password": "perapass"
+                 }
+            
+             </remarks>
+             <response code="200">Generates key for user who tries to log in if user exists</response>
+             <response code="404">If user doesn't exist</response>
+             <response code="500">If server error occurred</response>
+        </member>
+        <member name="M:API.Controllers.CommentsController.Get(Application.Searches.CommentSearch)">
+             <summary>
+             Gets all comments.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 GET
+                 {
+                    "UserId": 1,
+                    "MovieId": 1
+                 }
+            
+             </remarks>
+             <response code="200">Gets all comments</response>
+             <response code="404">If some of the items don't exist</response>
+             <response code="500">If server error occurred</response>
+        </member>
+        <member name="M:API.Controllers.CommentsController.Get(System.Int32)">
+            <summary>
+            Gets one comment by ID.
+            </summary>
+            <response code="200">Gets one comment by ID</response>
+            <response code="404">If item doesn't exist</response>
+            <response code="500">If server error occurred</response>
+        </member>
+        <member name="M:API.Controllers.CommentsController.Post(Application.DTO.InsertUpdateDTO.InsertUpdateCommentDto)">
+             <summary>
+             Adds new comment.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 POST
+                 {
+                    "UserId": 1,
+                    "MovieId": 1,
+                    "Text" : "I like this movie"
+                 }
+            
+             </remarks>
+             <response code="201">Adds new comment</response>
+             <response code="404">If some of the items don't exist</response>
+             <response code="500">If server error occurred</response>
+        </member>
+        <member name="M:API.Controllers.CommentsController.Put(System.Int32,Application.DTO.InsertUpdateDTO.InsertUpdateCommentDto)">
+             <summary>
+             Edits comment.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 PUT
+                 {
+                    "Text" : "I like this movie"
+                 }
+            
+             </remarks>
+             <response code="204">Edits comment</response>
+             <response code="404">If some of the items don't exist</response>
+             <response code="500">If server error occurred</response>
+        </member>
+        <member name="M:API.Controllers.CommentsController.Delete(System.Int32)">
+            <summary>
+            Deletes one comment by ID.
+            </summary>
+            <response code="204">Deletes one comment by ID</response>
+            <response code="404">If item doesn't exist</response>
+            <response code="409">If item is already deleted</response>
+            <response code="500">If server error occurred</response>
+        </member>
+        <member name="M:API.Controllers.GenresController.Get(Application.Searches.GenreSearch)">
+             <summary>
+             Gets all genres.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 GET
+                 {
+                    "Name": "Comedy"
+                 }
+            
+             </remarks>
+             <response code="200">Gets all genres</response>
+             <response code="404">If some of the items don't exist</response>
+             <response code="500">If server error occurred</response>
+        </member>
+        <member name="M:API.Controllers.GenresController.Get(System.Int32)">
+            <summary>
+            Gets one genre by ID.
+            </summary>
+            <response code="200">Gets one genre by ID</response>
+            <response code="404">If item doesn't exist</response>
+            <response code="500">If server error occurred</response>
+        </member>
+        <member name="M:API.Controllers.GenresController.Post(Application.DTO.InsertUpdateDTO.InsertUpdateGenreDto)">
+             <summary>
+             Adds new genre.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 POST
+                 {
+                    "Name": "Comedy"
+                 }
+            
+             </remarks>
+             <response code="201">Adds new comment</response>
+             <response code="409">If item already exists</response>
+             <response code="500">If server error occurred</response>
+        </member>
+        <member name="M:API.Controllers.GenresController.Put(System.Int32,Application.DTO.InsertUpdateDTO.InsertUpdateGenreDto)">
+             <summary>
+             Edits genre.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 PUT
+                 {
+                    "Name" : "Comedy"
+                 }
+            
+             </remarks>
+             <response code="204">Edits genre</response>
+             <response code="404">If some of the items don't exist</response>
+             <response code="409">If item already exists</response>
+             <response code="500">If server error occurred</response>
+        </member>
+        <member name="M:API.Controllers.GenresController.Delete(System.Int32)">
+            <summary>
+            Deletes one genre by ID.
+            </summary>
+            <response code="204">Deletes one genre by ID</response>
+            <response code="404">If item doesn't exist</response>
+            <response code="409">If item is already deleted</response>
+            <response code="500">If server error occurred</response>
+        </member>
+        <member name="M:API.Controllers.LikesController.InsertDelete(Application.DTO.InsertDeleteDTO.InsertDeleteLikeDto)">
+             <summary>
+             Adds or deletes like.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 POST
+                 {
+                    "UserId": 1,
+                    "MovieId": 1
+                 }
+            
+             </remarks>
+             <response code="204">Adds or deletes like</response>
+             <response code="404">If some of the items don't exist</response>
+             <response code="500">If server error occurred</response>
+        </member>
+        <member name="M:API.Controllers.MoviesController.Get(Application.Searches.MovieSearch)">
+             <summary>
+             Gets all movies.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 GET
+                 {
+                    "Keyword": "Harry Potter",
+                    "MinYear": 2010,
+                    "MaxYear": 2015,
+                    "MinLengthMinutes": 60,
+                    "MaxLengthMinutes": 85,
+                    "UserId": 1,
+                    "GenreId": [1, 2]
+                    
+                 }
+            
+             </remarks>
+             <response code="200">Gets all movies</response>
+             <response code="404">If some of the items don't exist</response>
+             <response code="500">If server error occurred</response>
+        </member>
+        <member name="M:API.Controllers.MoviesController.Get(System.Int32)">
+            <summary>
+            Gets one movie by ID.
+            </summary>
+            <response code="200">Gets one movie by ID</response>
+            <response code="404">If item doesn't exist</response>
+            <response code="500">If server error occurred</response>
+        </member>
+        <member name="M:API.Controllers.MoviesController.Post(API.DTO.MovieImageDto)">
+             <summary>
+             Adds new movie.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 POST
+                 {
+                    "Name": "Harry Potter",
+                    "Description": "This movie is about wizards and ...",
+                    "Year" : 2010,
+                    "LengthMinutes" : 85,
+                    "TrailerUrl" : "https://youtube.com/..."
+                    "UserId" : 1,
+                    "GenreList" : [1, 2],
+                    "Image" : image file
+                 }
+            
+             </remarks>
+             <response code="201">Adds new movie</response>
+             <response code="404">If some of the items don't exist</response>
+             <response code="409">If item already exists or two same genres are selected</response>
+             <response code="422">If image extension is not allowed</response>
+             <response code="500">If server error occurred</response>
+        </member>
+        <member name="M:API.Controllers.MoviesController.Put(System.Int32,API.DTO.MovieImageDto)">
+             <summary>
+             Edits movie.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 PUT
+                 {
+                    "Name": "Harry Potter",
+                    "Description": "This movie is about wizards and ...",
+                    "Year" : 2010,
+                    "LengthMinutes" : 85,
+                    "TrailerUrl" : "https://youtube.com/..."
+                    "UserId" : 1,
+                    "GenreList" : [1, 2],
+                    "Image" : image file
+                 }
+            
+             </remarks>
+             <response code="204">Edits movie</response>
+             <response code="404">If some of the items don't exist</response>
+             <response code="409">If item already exists or two same genres are selected</response>
+             <response code="422">If image extension is not allowed</response>
+             <response code="500">If server error occurred</response>
+        </member>
+        <member name="M:API.Controllers.MoviesController.Delete(System.Int32)">
+            <summary>
+            Deletes one movie by ID.
+            </summary>
+            <response code="204">Deletes one movie by ID</response>
+            <response code="404">If item doesn't exist</response>
+            <response code="409">If item is already deleted</response>
+            <response code="500">If server error occurred</response>
+        </member>
+        <member name="M:API.Controllers.RolesController.Get(Application.Searches.RoleSearch)">
+             <summary>
+             Gets all roles.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 GET
+                 {
+                    "Name": "User"
+                 }
+            
+             </remarks>
+             <response code="200">Gets all roles</response>
+             <response code="404">If some of the items don't exist</response>
+             <response code="500">If server error occurred</response>
+        </member>
+        <member name="M:API.Controllers.RolesController.Get(System.Int32)">
+            <summary>
+            Gets one role by ID.
+            </summary>
+            <response code="200">Gets one role by ID</response>
+            <response code="404">If item doesn't exist</response>
+            <response code="500">If server error occurred</response>
+        </member>
+        <member name="M:API.Controllers.RolesController.Post(Application.DTO.InsertUpdateDTO.InsertUpdateRoleDto)">
+             <summary>
+             Adds new role.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 POST
+                 {
+                    "Name": "User"
+                 }
+            
+             </remarks>
+             <response code="201">Adds new role</response>
+             <response code="409">If item already exists</response>
+             <response code="500">If server error occurred</response>
+        </member>
+        <member name="M:API.Controllers.RolesController.Put(System.Int32,Application.DTO.InsertUpdateDTO.InsertUpdateRoleDto)">
+             <summary>
+             Edits role.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 PUT
+                 {
+                    "Name" : "User"
+                 }
+            
+             </remarks>
+             <response code="204">Edits genre</response>
+             <response code="404">If some of the items don't exist</response>
+             <response code="409">If item already exists</response>
+             <response code="500">If server error occurred</response>
+        </member>
+        <member name="M:API.Controllers.RolesController.Delete(System.Int32)">
+            <summary>
+            Deletes one role by ID.
+            </summary>
+            <response code="204">Deletes one role by ID</response>
+            <response code="404">If item doesn't exist</response>
+            <response code="409">If item is already deleted</response>
+            <response code="500">If server error occurred</response>
+        </member>
+        <member name="M:API.Controllers.UsersController.Get(Application.Searches.UserSearch)">
+             <summary>
+             Gets all users.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 POST
+                 {
+                    "FirstName": "Pera",
+                    "LastName": "Peric",
+                    "Email": "pera@gmailc.com",
+                    "Username": "pera123",
+                    "RoleId": 1
+                    
+                 }
+            
+             </remarks>
+             <response code="200">Gets all users</response>
+             <response code="404">If some of the items don't exist</response>
+             <response code="500">If server error occurred</response>
+        </member>
+        <member name="M:API.Controllers.UsersController.Get(System.Int32)">
+            <summary>
+            Gets one user by ID.
+            </summary>
+            <response code="200">Gets one user by ID</response>
+            <response code="404">If item doesn't exist</response>
+            <response code="500">If server error occurred</response>
+        </member>
+        <member name="M:API.Controllers.UsersController.Post(Application.DTO.InsertUpdateDTO.InsertUpdateUserDto)">
+             <summary>
+             Adds new user.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 POST
+                 {
+                    "FirstName": "Pera",
+                    "LastName": "Peric",
+                    "Email" : "pera@gmail.com",
+                    "Username" : "pera123",
+                    "Password" : "perapass"
+                    "RoleId" : 1
+                 }
+            
+             </remarks>
+             <response code="201">Adds new user</response>
+             <response code="404">If some of the items don't exist</response>
+             <response code="409">If item already exists</response>
+             <response code="500">If server error occurred</response>
+        </member>
+        <member name="M:API.Controllers.UsersController.Put(System.Int32,Application.DTO.InsertUpdateDTO.InsertUpdateUserDto)">
+             <summary>
+             Edits user.
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 PUT
+                 {
+                    "FirstName": "Pera",
+                    "LastName": "Peric",
+                    "Email" : "pera@gmail.com",
+                    "Username" : "pera123",
+                    "Password" : "perapass"
+                    "RoleId" : 1
+                 }
+            
+             </remarks>
+             <response code="204">Edits user</response>
+             <response code="404">If some of the items don't exist</response>
+             <response code="409">If item already exists</response>
+             <response code="500">If server error occurred</response>
+        </member>
+        <member name="M:API.Controllers.UsersController.Delete(System.Int32)">
+            <summary>
+            Deletes one user by ID.
+            </summary>
+            <response code="204">Deletes one user by ID</response>
+            <response code="404">If item doesn't exist</response>
+            <response code="409">If item is already deleted</response>
+            <response code="500">If server error occurred</response>
+        </member>
+    </members>
+</doc>

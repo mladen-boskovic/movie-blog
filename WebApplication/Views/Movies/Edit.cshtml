@@ -1,0 +1,78 @@
+﻿@model WebApplication.DTO.MovieImageDto
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>MovieImageDto</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit" method="post" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Year" class="control-label"></label>
+                <input asp-for="Year" class="form-control" />
+                <span asp-validation-for="Year" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LengthMinutes" class="control-label"></label>
+                <input asp-for="LengthMinutes" class="form-control" />
+                <span asp-validation-for="LengthMinutes" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TrailerUrl" class="control-label"></label>
+                <input asp-for="TrailerUrl" class="form-control" />
+                <span asp-validation-for="TrailerUrl" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UserId" class="control-label"></label>
+                <select asp-for="UserId" class="form-control">
+                    @foreach (var u in ViewBag.Users)
+                    {
+                        <option value="@u.Id">@u.Username</option>
+                    }
+                </select>
+                <span asp-validation-for="UserId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="GenreList" class="control-label"></label>
+                <select asp-for="GenreList" class="form-control">
+                    @foreach (var g in ViewBag.Genres)
+                    {
+                        <option value="@g.Id">@g.Name</option>
+                    }
+                </select>
+                <span asp-validation-for="GenreList" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Image" class="control-label"></label>
+                <input type="file" asp-for="Image" class="form-control" />
+                <span asp-validation-for="Image" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

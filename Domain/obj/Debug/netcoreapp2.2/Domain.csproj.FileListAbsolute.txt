@@ -1,0 +1,36 @@
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\Domain\bin\Debug\netcoreapp2.2\Domain.deps.json
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\Domain\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\Domain\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\Domain\obj\Debug\netcoreapp2.2\Domain.csproj.CoreCompileInputs.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfoInputs.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfo.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\Domain\obj\Debug\netcoreapp2.2\Domain.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\Domain\obj\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\Domain\obj\Debug\netcoreapp2.2\Domain.csprojAssemblyReference.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\Domain\bin\Debug\netcoreapp2.2\Domain.deps.json
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\Domain\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\Domain\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\Domain\obj\Debug\netcoreapp2.2\Domain.csprojAssemblyReference.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\Domain\obj\Debug\netcoreapp2.2\Domain.csproj.CoreCompileInputs.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfoInputs.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfo.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\Domain\obj\Debug\netcoreapp2.2\Domain.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\Domain\obj\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\Domain\bin\Debug\netcoreapp2.2\Domain.deps.json
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\Domain\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\Domain\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\Domain\obj\Debug\netcoreapp2.2\Domain.csprojAssemblyReference.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\Domain\obj\Debug\netcoreapp2.2\Domain.csproj.CoreCompileInputs.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfoInputs.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfo.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\Domain\obj\Debug\netcoreapp2.2\Domain.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\Domain\obj\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\Filip\Desktop\mb\MovieBlog\Domain\bin\Debug\netcoreapp2.2\Domain.deps.json
+C:\Users\Filip\Desktop\mb\MovieBlog\Domain\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\Filip\Desktop\mb\MovieBlog\Domain\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\Filip\Desktop\mb\MovieBlog\Domain\obj\Debug\netcoreapp2.2\Domain.csprojAssemblyReference.cache
+C:\Users\Filip\Desktop\mb\MovieBlog\Domain\obj\Debug\netcoreapp2.2\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\mb\MovieBlog\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfoInputs.cache
+C:\Users\Filip\Desktop\mb\MovieBlog\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfo.cs
+C:\Users\Filip\Desktop\mb\MovieBlog\Domain\obj\Debug\netcoreapp2.2\Domain.dll
+C:\Users\Filip\Desktop\mb\MovieBlog\Domain\obj\Debug\netcoreapp2.2\Domain.pdb

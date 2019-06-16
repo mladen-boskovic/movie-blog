@@ -1,0 +1,94 @@
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\API\bin\Debug\netcoreapp2.2\API.deps.json
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.json
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.dev.json
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\API\bin\Debug\netcoreapp2.2\API.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\API\bin\Debug\netcoreapp2.2\API.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\API\obj\Debug\netcoreapp2.2\API.csprojAssemblyReference.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\API\obj\Debug\netcoreapp2.2\API.csproj.CoreCompileInputs.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\API\obj\Debug\netcoreapp2.2\API.AssemblyInfoInputs.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\API\obj\Debug\netcoreapp2.2\API.AssemblyInfo.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\API\obj\Debug\netcoreapp2.2\API.RazorTargetAssemblyInfo.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\API\obj\Debug\netcoreapp2.2\API.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\API\obj\Debug\netcoreapp2.2\API.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\API\bin\Debug\netcoreapp2.2\Application.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\API\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\API\bin\Debug\netcoreapp2.2\EfCommands.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\API\bin\Debug\netcoreapp2.2\EfDataAccess.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\API\bin\Debug\netcoreapp2.2\Application.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\API\bin\Debug\netcoreapp2.2\EfCommands.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\API\bin\Debug\netcoreapp2.2\EfDataAccess.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\API\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\API\obj\Debug\netcoreapp2.2\API.csproj.CopyComplete
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\API\bin\Debug\netcoreapp2.2\API.deps.json
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.json
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.dev.json
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\API\bin\Debug\netcoreapp2.2\API.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\API\bin\Debug\netcoreapp2.2\API.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\API\bin\Debug\netcoreapp2.2\Application.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\API\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\API\bin\Debug\netcoreapp2.2\EfCommands.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\API\bin\Debug\netcoreapp2.2\EfDataAccess.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\API\bin\Debug\netcoreapp2.2\Application.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\API\bin\Debug\netcoreapp2.2\EfCommands.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\API\bin\Debug\netcoreapp2.2\EfDataAccess.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\API\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\API\obj\Debug\netcoreapp2.2\API.csprojAssemblyReference.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\API\obj\Debug\netcoreapp2.2\API.csproj.CoreCompileInputs.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\API\obj\Debug\netcoreapp2.2\API.AssemblyInfoInputs.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\API\obj\Debug\netcoreapp2.2\API.AssemblyInfo.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\API\obj\Debug\netcoreapp2.2\API.RazorTargetAssemblyInfo.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\API\obj\Debug\netcoreapp2.2\API.csproj.CopyComplete
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\API\obj\Debug\netcoreapp2.2\API.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\API\obj\Debug\netcoreapp2.2\API.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\API\bin\Debug\netcoreapp2.2\API.deps.json
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.json
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.dev.json
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\API\bin\Debug\netcoreapp2.2\API.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\API\bin\Debug\netcoreapp2.2\API.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\API\bin\Debug\netcoreapp2.2\Application.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\API\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\API\bin\Debug\netcoreapp2.2\EfCommands.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\API\bin\Debug\netcoreapp2.2\EfDataAccess.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\API\bin\Debug\netcoreapp2.2\Application.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\API\bin\Debug\netcoreapp2.2\EfCommands.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\API\bin\Debug\netcoreapp2.2\EfDataAccess.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\API\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\API\obj\Debug\netcoreapp2.2\API.csprojAssemblyReference.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\API\obj\Debug\netcoreapp2.2\API.csproj.CoreCompileInputs.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\API\obj\Debug\netcoreapp2.2\API.AssemblyInfoInputs.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\API\obj\Debug\netcoreapp2.2\API.AssemblyInfo.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\API\obj\Debug\netcoreapp2.2\API.RazorTargetAssemblyInfo.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\API\obj\Debug\netcoreapp2.2\API.csproj.CopyComplete
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\API\obj\Debug\netcoreapp2.2\API.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\API\obj\Debug\netcoreapp2.2\API.pdb
+C:\Users\Filip\Desktop\mb\MovieBlog\API\bin\Debug\netcoreapp2.2\API.deps.json
+C:\Users\Filip\Desktop\mb\MovieBlog\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.json
+C:\Users\Filip\Desktop\mb\MovieBlog\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.dev.json
+C:\Users\Filip\Desktop\mb\MovieBlog\API\bin\Debug\netcoreapp2.2\API.dll
+C:\Users\Filip\Desktop\mb\MovieBlog\API\bin\Debug\netcoreapp2.2\API.pdb
+C:\Users\Filip\Desktop\mb\MovieBlog\API\bin\Debug\netcoreapp2.2\Application.dll
+C:\Users\Filip\Desktop\mb\MovieBlog\API\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\Filip\Desktop\mb\MovieBlog\API\bin\Debug\netcoreapp2.2\EfCommands.dll
+C:\Users\Filip\Desktop\mb\MovieBlog\API\bin\Debug\netcoreapp2.2\EfDataAccess.dll
+C:\Users\Filip\Desktop\mb\MovieBlog\API\bin\Debug\netcoreapp2.2\Application.pdb
+C:\Users\Filip\Desktop\mb\MovieBlog\API\bin\Debug\netcoreapp2.2\EfCommands.pdb
+C:\Users\Filip\Desktop\mb\MovieBlog\API\bin\Debug\netcoreapp2.2\EfDataAccess.pdb
+C:\Users\Filip\Desktop\mb\MovieBlog\API\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\Filip\Desktop\mb\MovieBlog\API\obj\Debug\netcoreapp2.2\API.csprojAssemblyReference.cache
+C:\Users\Filip\Desktop\mb\MovieBlog\API\obj\Debug\netcoreapp2.2\API.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\mb\MovieBlog\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cache
+C:\Users\Filip\Desktop\mb\MovieBlog\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cs
+C:\Users\Filip\Desktop\mb\MovieBlog\API\obj\Debug\netcoreapp2.2\API.AssemblyInfoInputs.cache
+C:\Users\Filip\Desktop\mb\MovieBlog\API\obj\Debug\netcoreapp2.2\API.AssemblyInfo.cs
+C:\Users\Filip\Desktop\mb\MovieBlog\API\obj\Debug\netcoreapp2.2\API.RazorTargetAssemblyInfo.cache
+C:\Users\Filip\Desktop\mb\MovieBlog\API\obj\Debug\netcoreapp2.2\API.csproj.CopyComplete
+C:\Users\Filip\Desktop\mb\MovieBlog\API\obj\Debug\netcoreapp2.2\API.dll
+C:\Users\Filip\Desktop\mb\MovieBlog\API\obj\Debug\netcoreapp2.2\API.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\API\bin\Debug\netcoreapp2.2\API.xml
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\API\obj\Debug\netcoreapp2.2\API.xml

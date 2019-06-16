@@ -1,0 +1,148 @@
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.deps.json
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.runtimeconfig.json
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.runtimeconfig.dev.json
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.Views.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.Views.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.csprojAssemblyReference.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.RazorAssemblyInfo.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.RazorAssemblyInfo.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.AssemblyInfoInputs.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.AssemblyInfo.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.TagHelpers.input.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.TagHelpers.output.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.RazorCoreGenerate.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.RazorTargetAssemblyInfo.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.RazorTargetAssemblyInfo.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.Views.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.csproj.CopyComplete
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.deps.json
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.runtimeconfig.json
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.runtimeconfig.dev.json
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.Views.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.Views.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.csprojAssemblyReference.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.RazorAssemblyInfo.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.RazorAssemblyInfo.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.AssemblyInfoInputs.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.AssemblyInfo.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.TagHelpers.input.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.TagHelpers.output.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.RazorCoreGenerate.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.RazorTargetAssemblyInfo.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.RazorTargetAssemblyInfo.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.Views.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.csproj.CopyComplete
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.deps.json
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.runtimeconfig.json
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.runtimeconfig.dev.json
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.Views.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.Views.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.csprojAssemblyReference.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.RazorAssemblyInfo.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.RazorAssemblyInfo.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.AssemblyInfoInputs.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.AssemblyInfo.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.TagHelpers.input.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.TagHelpers.output.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.RazorCoreGenerate.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.RazorTargetAssemblyInfo.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.RazorTargetAssemblyInfo.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.Views.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.csproj.CopyComplete
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\bin\Debug\netcoreapp2.2\Application.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\bin\Debug\netcoreapp2.2\EfCommands.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\bin\Debug\netcoreapp2.2\EfDataAccess.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\bin\Debug\netcoreapp2.2\Application.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\bin\Debug\netcoreapp2.2\EfCommands.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\bin\Debug\netcoreapp2.2\EfDataAccess.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Create.g.cshtml.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Edit.g.cshtml.cs
+C:\Users\Filip\Desktop\mb\MovieBlog\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.deps.json
+C:\Users\Filip\Desktop\mb\MovieBlog\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.runtimeconfig.json
+C:\Users\Filip\Desktop\mb\MovieBlog\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.runtimeconfig.dev.json
+C:\Users\Filip\Desktop\mb\MovieBlog\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.dll
+C:\Users\Filip\Desktop\mb\MovieBlog\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.pdb
+C:\Users\Filip\Desktop\mb\MovieBlog\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.Views.dll
+C:\Users\Filip\Desktop\mb\MovieBlog\WebApplication\bin\Debug\netcoreapp2.2\WebApplication.Views.pdb
+C:\Users\Filip\Desktop\mb\MovieBlog\WebApplication\bin\Debug\netcoreapp2.2\Application.dll
+C:\Users\Filip\Desktop\mb\MovieBlog\WebApplication\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\Filip\Desktop\mb\MovieBlog\WebApplication\bin\Debug\netcoreapp2.2\EfCommands.dll
+C:\Users\Filip\Desktop\mb\MovieBlog\WebApplication\bin\Debug\netcoreapp2.2\EfDataAccess.dll
+C:\Users\Filip\Desktop\mb\MovieBlog\WebApplication\bin\Debug\netcoreapp2.2\Application.pdb
+C:\Users\Filip\Desktop\mb\MovieBlog\WebApplication\bin\Debug\netcoreapp2.2\EfCommands.pdb
+C:\Users\Filip\Desktop\mb\MovieBlog\WebApplication\bin\Debug\netcoreapp2.2\EfDataAccess.pdb
+C:\Users\Filip\Desktop\mb\MovieBlog\WebApplication\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\Filip\Desktop\mb\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.csprojAssemblyReference.cache
+C:\Users\Filip\Desktop\mb\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\mb\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.RazorAssemblyInfo.cache
+C:\Users\Filip\Desktop\mb\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.RazorAssemblyInfo.cs
+C:\Users\Filip\Desktop\mb\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.AssemblyInfoInputs.cache
+C:\Users\Filip\Desktop\mb\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.AssemblyInfo.cs
+C:\Users\Filip\Desktop\mb\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.TagHelpers.input.cache
+C:\Users\Filip\Desktop\mb\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.TagHelpers.output.cache
+C:\Users\Filip\Desktop\mb\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.RazorCoreGenerate.cache
+C:\Users\Filip\Desktop\mb\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Filip\Desktop\mb\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Filip\Desktop\mb\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Create.g.cshtml.cs
+C:\Users\Filip\Desktop\mb\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Details.g.cshtml.cs
+C:\Users\Filip\Desktop\mb\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Edit.g.cshtml.cs
+C:\Users\Filip\Desktop\mb\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Index.g.cshtml.cs
+C:\Users\Filip\Desktop\mb\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Filip\Desktop\mb\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Filip\Desktop\mb\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Filip\Desktop\mb\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Filip\Desktop\mb\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Filip\Desktop\mb\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Filip\Desktop\mb\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.RazorTargetAssemblyInfo.cache
+C:\Users\Filip\Desktop\mb\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.RazorTargetAssemblyInfo.cs
+C:\Users\Filip\Desktop\mb\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.Views.pdb
+C:\Users\Filip\Desktop\mb\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.csproj.CopyComplete
+C:\Users\Filip\Desktop\mb\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.dll
+C:\Users\Filip\Desktop\mb\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\WebApplication.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Index.g.cshtml.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Details.g.cshtml.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Users\Index.g.cshtml.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Users\Details.g.cshtml.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Users\Create.g.cshtml.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\WebApplication\obj\Debug\netcoreapp2.2\Razor\Views\Users\Edit.g.cshtml.cs

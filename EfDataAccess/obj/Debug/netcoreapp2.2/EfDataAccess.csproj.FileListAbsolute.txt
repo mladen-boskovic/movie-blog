@@ -1,0 +1,56 @@
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\EfDataAccess\bin\Debug\netcoreapp2.2\EfDataAccess.deps.json
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\EfDataAccess\bin\Debug\netcoreapp2.2\EfDataAccess.runtimeconfig.json
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\EfDataAccess\bin\Debug\netcoreapp2.2\EfDataAccess.runtimeconfig.dev.json
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\EfDataAccess\bin\Debug\netcoreapp2.2\EfDataAccess.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\EfDataAccess\bin\Debug\netcoreapp2.2\EfDataAccess.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\EfDataAccess\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\EfDataAccess\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.csprojAssemblyReference.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.AssemblyInfoInputs.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.AssemblyInfo.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.csproj.CopyComplete
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\EfDataAccess\bin\Debug\netcoreapp2.2\EfDataAccess.deps.json
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\EfDataAccess\bin\Debug\netcoreapp2.2\EfDataAccess.runtimeconfig.json
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\EfDataAccess\bin\Debug\netcoreapp2.2\EfDataAccess.runtimeconfig.dev.json
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\EfDataAccess\bin\Debug\netcoreapp2.2\EfDataAccess.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\EfDataAccess\bin\Debug\netcoreapp2.2\EfDataAccess.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\EfDataAccess\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\EfDataAccess\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.csprojAssemblyReference.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.AssemblyInfoInputs.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.AssemblyInfo.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.csproj.CopyComplete
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\EfDataAccess\bin\Debug\netcoreapp2.2\EfDataAccess.deps.json
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\EfDataAccess\bin\Debug\netcoreapp2.2\EfDataAccess.runtimeconfig.json
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\EfDataAccess\bin\Debug\netcoreapp2.2\EfDataAccess.runtimeconfig.dev.json
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\EfDataAccess\bin\Debug\netcoreapp2.2\EfDataAccess.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\EfDataAccess\bin\Debug\netcoreapp2.2\EfDataAccess.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\EfDataAccess\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\EfDataAccess\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.csprojAssemblyReference.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.AssemblyInfoInputs.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.AssemblyInfo.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.csproj.CopyComplete
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.pdb
+C:\Users\Filip\Desktop\mb\MovieBlog\EfDataAccess\bin\Debug\netcoreapp2.2\EfDataAccess.deps.json
+C:\Users\Filip\Desktop\mb\MovieBlog\EfDataAccess\bin\Debug\netcoreapp2.2\EfDataAccess.runtimeconfig.json
+C:\Users\Filip\Desktop\mb\MovieBlog\EfDataAccess\bin\Debug\netcoreapp2.2\EfDataAccess.runtimeconfig.dev.json
+C:\Users\Filip\Desktop\mb\MovieBlog\EfDataAccess\bin\Debug\netcoreapp2.2\EfDataAccess.dll
+C:\Users\Filip\Desktop\mb\MovieBlog\EfDataAccess\bin\Debug\netcoreapp2.2\EfDataAccess.pdb
+C:\Users\Filip\Desktop\mb\MovieBlog\EfDataAccess\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\Filip\Desktop\mb\MovieBlog\EfDataAccess\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\Filip\Desktop\mb\MovieBlog\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.csprojAssemblyReference.cache
+C:\Users\Filip\Desktop\mb\MovieBlog\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\mb\MovieBlog\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.AssemblyInfoInputs.cache
+C:\Users\Filip\Desktop\mb\MovieBlog\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.AssemblyInfo.cs
+C:\Users\Filip\Desktop\mb\MovieBlog\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.csproj.CopyComplete
+C:\Users\Filip\Desktop\mb\MovieBlog\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.dll
+C:\Users\Filip\Desktop\mb\MovieBlog\EfDataAccess\obj\Debug\netcoreapp2.2\EfDataAccess.pdb

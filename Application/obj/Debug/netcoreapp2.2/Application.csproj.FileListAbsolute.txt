@@ -1,0 +1,36 @@
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\Application\bin\Debug\netcoreapp2.2\Application.deps.json
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\Application\bin\Debug\netcoreapp2.2\Application.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\Application\bin\Debug\netcoreapp2.2\Application.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\Application\obj\Debug\netcoreapp2.2\Application.csprojAssemblyReference.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\Application\obj\Debug\netcoreapp2.2\Application.csproj.CoreCompileInputs.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\Application\obj\Debug\netcoreapp2.2\Application.AssemblyInfoInputs.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\Application\obj\Debug\netcoreapp2.2\Application.AssemblyInfo.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\Application\obj\Debug\netcoreapp2.2\Application.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\MovieBlog\Application\obj\Debug\netcoreapp2.2\Application.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\Application\bin\Debug\netcoreapp2.2\Application.deps.json
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\Application\bin\Debug\netcoreapp2.2\Application.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\Application\bin\Debug\netcoreapp2.2\Application.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\Application\obj\Debug\netcoreapp2.2\Application.csprojAssemblyReference.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\Application\obj\Debug\netcoreapp2.2\Application.csproj.CoreCompileInputs.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\Application\obj\Debug\netcoreapp2.2\Application.AssemblyInfoInputs.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\Application\obj\Debug\netcoreapp2.2\Application.AssemblyInfo.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\Application\obj\Debug\netcoreapp2.2\Application.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\[dodat email - pre implementacije]\MovieBlog\Application\obj\Debug\netcoreapp2.2\Application.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\Application\bin\Debug\netcoreapp2.2\Application.deps.json
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\Application\bin\Debug\netcoreapp2.2\Application.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\Application\bin\Debug\netcoreapp2.2\Application.pdb
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\Application\obj\Debug\netcoreapp2.2\Application.csprojAssemblyReference.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\Application\obj\Debug\netcoreapp2.2\Application.csproj.CoreCompileInputs.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\Application\obj\Debug\netcoreapp2.2\Application.AssemblyInfoInputs.cache
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\Application\obj\Debug\netcoreapp2.2\Application.AssemblyInfo.cs
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\Application\obj\Debug\netcoreapp2.2\Application.dll
+C:\Users\mlade\Documents\Visual Studio 2019\Projects\za kopi\MovieBlog\Application\obj\Debug\netcoreapp2.2\Application.pdb
+C:\Users\Filip\Desktop\mb\MovieBlog\Application\bin\Debug\netcoreapp2.2\Application.deps.json
+C:\Users\Filip\Desktop\mb\MovieBlog\Application\bin\Debug\netcoreapp2.2\Application.dll
+C:\Users\Filip\Desktop\mb\MovieBlog\Application\bin\Debug\netcoreapp2.2\Application.pdb
+C:\Users\Filip\Desktop\mb\MovieBlog\Application\obj\Debug\netcoreapp2.2\Application.csprojAssemblyReference.cache
+C:\Users\Filip\Desktop\mb\MovieBlog\Application\obj\Debug\netcoreapp2.2\Application.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\mb\MovieBlog\Application\obj\Debug\netcoreapp2.2\Application.AssemblyInfoInputs.cache
+C:\Users\Filip\Desktop\mb\MovieBlog\Application\obj\Debug\netcoreapp2.2\Application.AssemblyInfo.cs
+C:\Users\Filip\Desktop\mb\MovieBlog\Application\obj\Debug\netcoreapp2.2\Application.dll
+C:\Users\Filip\Desktop\mb\MovieBlog\Application\obj\Debug\netcoreapp2.2\Application.pdb
